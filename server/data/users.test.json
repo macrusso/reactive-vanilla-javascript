@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "first_name": "Myrna",
+    "last_name": "O'Farris",
+    "email": "mofarris0@comsenz.com",
+    "gender": "Female",
+    "date": "1/13/2018",
+    "address": "6 Colorado Circle",
+    "city": "Sigetec",
+    "country": "Croatia",
+    "country_code": "HR"
+  },
+  {
+    "id": 2,
+    "first_name": "Berri",
+    "last_name": "Silcock",
+    "email": "bsilcock1@google.co.uk",
+    "gender": "Female",
+    "date": "1/2/2018",
+    "address": "84262 Lotheville Center",
+    "city": "Tras Cerros",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "id": 3,
+    "first_name": "Chancey",
+    "last_name": "Hazlehurst",
+    "email": "chazlehurst2@ted.com",
+    "gender": "Male",
+    "date": "1/27/2019",
+    "address": "06 Acker Street",
+    "city": "Kostino",
+    "country": "Russia",
+    "country_code": "RU"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "reactive-vanilla-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha",
+    "start": "FILE_NAME=users node ./bin/www",
+    "e2e": "FILE_NAME=users.test node ./bin/www & npx mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "pixelmatch": "^5.2.1",
+    "pngjs": "^6.0.0",
+    "puppeteer": "^7.0.1"
+  }
+}
